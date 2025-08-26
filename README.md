@@ -47,5 +47,6 @@ Strategic insights for sales, marketing, and customer service teams
 ### End Result
 
 A user-friendly, automated Power BI dashboard that provides quick and actionable sales insights, driving better decisions and measurable cost savings.
+# Screenshot of dashboard
 
-https://github.com/lakshay-2410/sales_insight/blob/main/sales_insight.png
+[dashboard preview](https://github.com/lakshay-2410/sales_insight/blob/main/sales_insight.png)
